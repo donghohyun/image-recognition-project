@@ -9,7 +9,9 @@
 <p align="center">
   <img src="https://github.com/donghohyun/image-recognition-project/assets/139213175/7fdebf5c-c688-41c3-8767-c9ea02f17188">
 </p>
+
 ---
+
 ## 이미지 전처리
 이미지에서 번호판 영역 추출과 번호를 구분하기 위해 전처리를 거쳐 주었다.
 전처리를 크게 N 단계를 거쳤다.
